@@ -6,7 +6,7 @@
 
 ### Steps:
 1. Extract the latest yahoo finance data <br>
-2. Tune the Hyperparameter and Test Performance[skip this step unless intend to train a new model] 
+2. Tune the Hyperparameter and Test Performance[skip this step unless intend to train a new model] <br>
     2.1 Train the single lstm and multi lstm with combination of hyperparameters to determine the optimal parameter for stock price prediction <br> 
     2.2. Visualize the training results to determine the optimum parameters for single lstm and multi lstm <br>
 3. Set the parameters for single layer lstm and multi layer lstm and train and test on the latest stock price data from yahoo finance <br>
